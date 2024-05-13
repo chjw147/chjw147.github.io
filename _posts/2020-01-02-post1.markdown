@@ -9,5 +9,5 @@ category: sample
 
 This is code
 ```ruby
-print 'hello world'
+print 'hello world222'
 ```
