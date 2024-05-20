@@ -36,3 +36,26 @@ $monospacetype: (
 ) !default;
 
 // TIP: Load custom fonts in _config.yaml
+
+
+// 한글 Typography 설정
+$bodytype: (
+  font-family: "Noto Serif KR", serif,
+  regular: 400,
+  bold: 700,
+//  italic: italic,
+  cap-height: 0.75
+) !default;
+
+$headingtype: (
+  font-family: "Noto Sans KR", sans-serif,
+  regular: 400,
+  bold: 700,
+  cap-height: 0.75
+) !default;
+
+$monospacetype: (
+  font-family: "D2Coding", monospace,
+  regular: 400,
+  cap-height: 0.68
+) !default;
