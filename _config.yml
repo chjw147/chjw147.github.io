@@ -34,6 +34,9 @@ plugins:
 - jekyll-include-cache
 - jemoji
 
+include:
+  - _includes
+
 # 3. Gem settings
 paginate: 2 # jekyll-paginate > items per page
 paginate_path: blog/page:num # jekyll-paginate > blog page
@@ -158,4 +161,4 @@ fonts:
   preconnect_urls:
     - https://fonts.gstatic.com
   font_urls:
-    - https://fonts.googleapis.com/css2?family=Merriweather:wght@400;700&display=swap
+    - https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@400;700&display=swap
