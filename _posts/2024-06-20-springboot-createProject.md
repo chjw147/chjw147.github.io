@@ -1,7 +1,7 @@
 ---
-title: Javascript - 호이스팅
+title: Springboot - 스프링부트 프로젝트 생성
 categories:
-- Javascript
+- Springboot
 feature_image: "https://picsum.photos/2560/600?image=872"
 ---
 
